@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bernat
+- 👋 Hi, I’m Bernát
 - 👀 I’m interested in Computer Vision, AI, Cloud Computing In Distributed Systems 
 - 🌱 I’m currently learning Java and React
 - 📫 How to reach me domberills@gmail.com
