@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bernát
-- 👀 I’m interested in Computer Vision, AI, Cloud Computing In Distributed Systems 
+- 👀 I’m interested in Full-Stack Software Development, Computer Vision, AI, Cloud Computing In Distributed Systems 
 - 🌱 I’m currently learning Java, React, Node.js and Python
 - 📫 How to reach me domberills@gmail.com
 
