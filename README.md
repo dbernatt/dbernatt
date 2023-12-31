@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Bernát
-- 👀 I’m interested in Computer Vision, AI, and Cloud Computing
-- 🌱 I’m currently learning Python, Pytorch, Pytorch Lightning
 - 📫 How to reach me domberills@gmail.com
 
 <!---
